@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "git@github.com:SRowley90/AdapterExample.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "562007c05de7cc8cada4989fcc1c2e78660aceaf"
+        "revision" : "b5ac76462a5b3b08cda29d2d63acaf02e3a1d5a0",
+        "version" : "0.0.1"
       }
     },
     {
